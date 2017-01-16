@@ -1,0 +1,1 @@
+-keep class com.tensei.ota.core.OTAListener

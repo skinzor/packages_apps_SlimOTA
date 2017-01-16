@@ -1,0 +1,3 @@
+<WakefulIntentService
+    listener="com.tensei.ota.scheduler.OTAListener"
+    />
